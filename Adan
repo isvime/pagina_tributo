@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Pagina tributo</title>
+    <link rel="stylesheet" href="estilos.css">
+  </head>
+  <body>
+    <h1>Adan</h1>
+    <h2>El primer hombre en la Tierra</h2>
+    <div class="contenedor">
+     <img class="imgAdan" src="https://res.cloudinary.com/nielie/image/upload/v1644517864/Adan_y_la_creaci%C3%B3n_wf6kc3.jpg" alt="Adan el primer hombre">
+     </img>
+    </div>
+    <br>
+    <div class="centro">En esta imagen podemos observar a Adan en el comienzo de la cración. Fresco de Miguel Ángel</div>
+    <br>
+    <section id="tribute-info">
+        <h3 id="headline">Aquí hay una linea de tiempo desde la creación de Adan:</h3>
+          <ul class="listacentrada">
+            <li>Génesis 1:23-27 Dios creo al hombre el quinto día de la creación</li>
+            <li>Génesis 1:28 Dios lo bendice y pide que se multipliquen y sean frutíferos, llenando la tierra y gobernando sobre ella</li>
+            <li>Génesis 1:29 Dios le da a Adan todas las plantas con semilla y árboles frutales para que les sirvan de alimento</li>
+            <li>Génesis 2:7 Dios formo al hombre del polvo de la tierra y soplo aliento de vida en la nariz del hombre y este se convirtio en un ser viviente</li>
+            <li>Génesis 2:8 Dios planta al hombre en el Edén</li>
+            <li>Génesis 2:15 Dios puso al hombre en el Edén para que se ocupara de él y lo custodiara</li>
+            <li>Génesis 2:18 Dios vio que no es bueno que el hombre esté solo así que le hará una ayuda ideal para él</li>
+            <li>Génesis 2:20 Adan le pone nombre a todos los animales</li>
+            <li>Génesis 2:21 Dios hace que Adan caiga en sueño profundo y le saca una costilla para formar a una mujer, y la presentó al hombre</li>
+          </ul>
+        <div>
+            <a href="Adan y eva pecan.html" target="_blank">Adan y Eva pecan</a>
+        </div>
+    </section>
+  </body>
+</html>
